@@ -1,19 +1,18 @@
 ---
 layout: post
-title: Benign or malignant
+title: Clowntage in HD 
 ---
 
-Imagine a supervised learning algorithm where we're trying to predict whether
-or not a lump (tumor) is harmful or benign. We can use attributes such as age,
-tumor size. if we draw an x/y axis, what a learning algorithm would do is throw
-a straight line through the dataset, separating the benign from the malignant,
-and finding your point on the axis, will give us our answer, but there are other qualities
-we could use too, like the clump thickness of the tumor, uniformity of cell size of the tumor, uniformity of cell shape of the tumor, and so forth.
-the cool thing about this, is that eventually we'll be able to deal with not just two or three or five features or attributes, but
-an infinite number of features.
+I feel really awful for one of my closest friends, James. A couple of years ago, on new years eve (lots of shots), there was an incident where he left his mic unattended and.. unmuted. This, at first didn't strike anybody as a big deal, but, what happened afterward, indeed turn out to be... a big deal.
 
-How do you store an infinite number of things on the computer when your computer is going to run out of memory? It turns out when we use support vector machines, there's a
-neat mathematical trick that will allow a computer to deal with an infinite number of features.
+James was hanging out with the fam-bam, namely Auntie Barbara, when things got a little.. wild you could say. Some of the things that were heard via his microphone that night are as follows: 
 
-Supervised learning, we're told what is the "correct answer" that we would've liked our algorithms to predict. i.e. price of a house, whether a tumor is malignant or benign. but then there's
-the regression problem, which means that our goal is to predict a continuous valued output, and the classification problem where the goal is to predict a discrete (1, 0) value. e.g. a learning algorithm that evaluates thousands of user accounts and predicts whether or not it's been hacked or compromised.
+James: SO MANY SHOTS ON NEW YEARS (repeatedly)
+James: THAT FEELS S-
+James: THAT FEELS SO
+
+*rumbles to get his microphone muted, presumably once he'd realized he'd just gotten a blowjob from his auntie live on Skype*
+
+*mute*
+
+Now he's denying it and I don't know how to aid him if he's unwilling to accept the reality of it. Any tips, guys?
